@@ -20,12 +20,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Advanced React**, **Cloud Deployment**, and **DSA**
+- 🌱 I’m currently learning **Full Stack MERN Development**, **Cloud Deployment**, and **DSA**
 - 🔭 I’m working on: `Cloud Robotics Infrastructure Optimization`, `Weather App`, `Notes App`
 - 🎯 Focused on writing clean, maintainable, and scalable code
 - 💬 Ask me about **C++**, **Python**, **React**, or anything tech!
-- 📫 Reach me at: **your.email@example.com**
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 Reach me at: **anupyadav2308@outlook.com**
+- 🌐 Portfolio: [Portfolio](https://your-portfolio-link.com)
 
 ---
 
