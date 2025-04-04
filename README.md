@@ -88,14 +88,12 @@
 - 🔹 [Cloud Robotics](https://github.com/your-username/cloud-robotics): Research-based infrastructure optimization project
 
 ---
-
-## GitHub Stats
-
 ## GitHub Stats
 Public Repositories: 2  | Followers: 0  | Following: 0
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anup-code-arch&show_icons=true&theme=radical)
-
+![Anup-code-arch's Stats](https://github-readme-stats.vercel.app/api?username=Anup-code-arch&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Anup-code-arch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anup-code-arch&theme=highcontrast&hide_border=false)
+![Anup-code-arch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-code-arch&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 
 ###
