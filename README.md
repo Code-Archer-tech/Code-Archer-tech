@@ -89,11 +89,11 @@
 
 ---
 ## GitHub Stats
-Public Repositories: 2  | Followers: 0  | Following: 0
+Public Repositories: 2  | Followers: 2  | Following: 4
 
-![Anup-code-arch's Stats](https://github-readme-stats.vercel.app/api?username=Anup-code-arch&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![Anup-code-arch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anup-code-arch&theme=highcontrast&hide_border=false)
-![Anup-code-arch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-code-arch&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![Code-Archer-tech's Stats](https://github-readme-stats.vercel.app/api?username=Code-Archer-tech&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Code-Archer-tech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Code-Archer-tech&theme=highcontrast&hide_border=false)
+![Code-Archer-tech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Archer-tech&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 
 ###
